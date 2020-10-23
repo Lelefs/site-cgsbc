@@ -18,7 +18,6 @@ export default createGlobalStyle`
     background-color: #ede7f6;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
   }
 
   body, input, button, textarea {

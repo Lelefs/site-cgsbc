@@ -1,13 +1,18 @@
 import styled from 'styled-components';
 
 export const Container = styled.main`
-  flex: 1;
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 20px;
+
+  img {
+    height: 100%;
+    max-height: 150px;
+    margin-top: 20px;
+  }
 
   p,
   strong {
@@ -15,8 +20,8 @@ export const Container = styled.main`
   }
 
   h1 {
-    font-size: 3rem;
-    margin-bottom: 50px;
+    font-size: 2.5rem;
+    margin-bottom: 35px;
   }
 
   strong {

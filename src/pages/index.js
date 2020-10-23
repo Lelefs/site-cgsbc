@@ -21,6 +21,11 @@ export default function Home() {
         <p>Celebração da família: 09:30 e às 18:00</p>
         <strong>Terça-feira</strong>
         <p>Projeto IDE: 20:00</p>
+        <img
+          src="/logo.png"
+          alt="Comunidade da Graça - SBC"
+          title="Comunidade da Graça - SBC"
+        />
       </Container>
       <Footer />
     </>
