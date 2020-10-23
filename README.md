@@ -1,3 +1,5 @@
+![Logo CGSBC](https://imgs-readme.s3-sa-east-1.amazonaws.com/logo-cgsbc.png)
+
 [![Framework](https://badgen.net/badge/Framework/NextJS/green)](https://nextjs.org/)
 [![Style](https://badgen.net/badge/Estilo/Styled-components/blue)](https://styled-components.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
