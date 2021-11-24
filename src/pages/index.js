@@ -26,6 +26,8 @@ export default function Home() {
           alt="Comunidade da Graça - SBC"
           title="Comunidade da Graça - SBC"
         />
+        <strong>PIX</strong>
+        <p>05.115.139/0001-02</p>
       </Container>
       <Footer />
     </>

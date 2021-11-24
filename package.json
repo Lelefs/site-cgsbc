@@ -5,7 +5,10 @@
   "author": "FSET",
   "license": "MIT",
   "eslintConfig": {
-    "extends": ["react-app", "airbnb"]
+    "extends": [
+      "react-app",
+      "airbnb"
+    ]
   },
   "scripts": {
     "dev": "next dev",

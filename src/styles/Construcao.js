@@ -7,11 +7,12 @@ export const Container = styled.main`
   align-items: center;
   justify-content: flex-start;
   padding: 20px;
+  flex: 1;
 
   img {
     height: 100%;
     max-height: 150px;
-    margin-top: 20px;
+    margin: 20px 0;
   }
 
   p,
@@ -26,5 +27,9 @@ export const Container = styled.main`
 
   strong {
     margin: 20px 0 5px;
+
+    &:last-of-type {
+      margin-top: auto;
+    }
   }
 `;
